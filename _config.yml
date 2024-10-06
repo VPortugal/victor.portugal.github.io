@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  name             : "Victor Portugal"
+  pronouns         : # example: "he/his"  
+  bio              : "PhD Candidate in Philosophy"
+  location         : "Brussels"
+  employer         : "KU Leuven"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "victor.portugal@kuleuven.be" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
